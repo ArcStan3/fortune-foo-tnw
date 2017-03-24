@@ -1,0 +1,4 @@
+const SET_FORTUNE = 'SET_FORTUNE'
+const UPDATE = 'UPDATE'
+
+export { SET_FORTUNE, UPDATE }
